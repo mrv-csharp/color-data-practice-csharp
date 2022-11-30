@@ -1,0 +1,15 @@
+F:\__CS\C#\color-data-practice\bin\Debug\net6.0\color-data-practice.exe
+F:\__CS\C#\color-data-practice\bin\Debug\net6.0\color-data-practice.deps.json
+F:\__CS\C#\color-data-practice\bin\Debug\net6.0\color-data-practice.runtimeconfig.json
+F:\__CS\C#\color-data-practice\bin\Debug\net6.0\color-data-practice.dll
+F:\__CS\C#\color-data-practice\bin\Debug\net6.0\color-data-practice.pdb
+F:\__CS\C#\color-data-practice\obj\Debug\net6.0\color-data-practice.csproj.AssemblyReference.cache
+F:\__CS\C#\color-data-practice\obj\Debug\net6.0\color-data-practice.GeneratedMSBuildEditorConfig.editorconfig
+F:\__CS\C#\color-data-practice\obj\Debug\net6.0\color-data-practice.AssemblyInfoInputs.cache
+F:\__CS\C#\color-data-practice\obj\Debug\net6.0\color-data-practice.AssemblyInfo.cs
+F:\__CS\C#\color-data-practice\obj\Debug\net6.0\color-data-practice.csproj.CoreCompileInputs.cache
+F:\__CS\C#\color-data-practice\obj\Debug\net6.0\color-data-practice.dll
+F:\__CS\C#\color-data-practice\obj\Debug\net6.0\refint\color-data-practice.dll
+F:\__CS\C#\color-data-practice\obj\Debug\net6.0\color-data-practice.pdb
+F:\__CS\C#\color-data-practice\obj\Debug\net6.0\color-data-practice.genruntimeconfig.cache
+F:\__CS\C#\color-data-practice\obj\Debug\net6.0\ref\color-data-practice.dll

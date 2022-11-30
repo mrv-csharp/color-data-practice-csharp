@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "color-data-practice/1.0.0": {
+        "runtime": {
+          "color-data-practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "color-data-practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
